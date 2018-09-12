@@ -6,12 +6,12 @@ We made this project in 48 hours in GovHack 2018.(ReactJS, firebase)
 The concept is to create a website that groups various types of data from the open data set provided by the government and present them in a more user-friendly way. 
 We created different types of pins and plot it on the google map with different levels to let the general public understand more about each suburb in Australia and guide the government on making better decision on urban/rural planning.
 
-Data sets includes:
-- Census Data from each suburb
-- Schools and their information for each suburb
-- Crime Rate for each suburb
+Data sets includes: (for each suburb)
+- Census Data
+- Schools and their information
+- Crime Rate
 
-For future development, we plan on adding more filters and combining more datas.
+For future development, we plan on adding more filters and combining more datas nation-wide.
 
 #Development Team
 - [Jonathan Yeung](https://github.com/YeungJonathan)
