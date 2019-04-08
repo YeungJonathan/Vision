@@ -14,7 +14,7 @@ Data sets includes: (for each suburb)
 For future development, we plan on adding more filters and combining more datas nation-wide.
 
 #Development Team
-- [Jonathan Yeung](https://github.com/YeungJonathan)
+- [Jonathan Yeung (Team Lead)](https://github.com/YeungJonathan)
 - [Marcus Ooi](https://github.com/MarcusKJOoi)
 - [Zain Shroff](https://github.com/zain610)
 - [Harsil Patel](https://github.com/harsilspatel)
