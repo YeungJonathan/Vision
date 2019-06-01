@@ -5,7 +5,7 @@ import $ from 'jquery';
 // var admin = require('firebase-admin');
 // var serviceAccount = require("/Users/zainshroff/Desktop/apps/vision-database-privatekey/vision-215704-firebase-adminsdk-04l3y-7430ae452b.json");
 var config = {
-  apiKey: "AIzaSyDURexKEhuTujRxljZMAtgn92YvraiMpdU",
+  apiKey: "AIzaSyBTF977QlWedKwIjpGGAxcBoGsjobtjEmY",
   authDomain: "vision-215704.firebaseapp.com",
   databaseURL: "https://vision-215704.firebaseio.com/",
   storageBucket: "gs://vision-215704.appspot.com",
